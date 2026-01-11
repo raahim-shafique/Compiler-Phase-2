@@ -1,0 +1,8 @@
+Line 3: Declaration recognized.
+Line 4: Declaration recognized.
+Line 4: Declaration recognized.
+Line 5: Declaration recognized.
+Line 6: Declaration recognized.
+Program structure identified.
+
+Final Status: Syntax Analysis Failed.
