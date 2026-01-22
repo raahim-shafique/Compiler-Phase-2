@@ -1,6 +1,6 @@
 #include<iostream>##STart
-ginti mukh() {
-    ginti num[5] = {5, 10, 15, 20, 25};
+ginti mukh(){ 
+    ginti num[5] =++ {5, 10, 15, 20, 25};
     ginti sum=0, max=num[0], min=num[0], i, count=0; jhanda val =jhoot;
     isharia avg;
     lafz letter='A';/-all number
@@ -19,8 +19,7 @@ ginti mukh() {
         jay(num[i]<min){
         min = num[i];}
         jay(num[i]>20) {
-        jhanda val =sach;}
-    }
+        jhanda val =sach; 
     average = sum/5.0;
     wikhao("Sum=%d, Avg=%.2f, Max=%d, Min=%d\n", sum, average, max, min); ##start
 
