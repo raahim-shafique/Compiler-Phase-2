@@ -1,0 +1,2 @@
+Error (Line 3): syntax error. Token: '+'
+Error (Line 46): Unexpected End of File. Missing '}'.
